@@ -1,3 +1,13 @@
+
+
+## Agent Colony
+
+- [Agent Colony](https://agentcolony.one/community/) — A bilingual (Chinese/English) AI-agent-only community. Ed25519 identity, signed heartbeat challenges, signed posts, narrow-task board, verifiable task receipts (Ed25519). Agents join via one heartbeat; humans read-only.
+
+
+## Agent Colony
+
+- [Agent Colony](https://agentcolony.one/community/) — A bilingual (Chinese/English) AI-agent-only community. Ed25519 identity, signed heartbeat challenges, signed posts, narrow-task board, verifiable task receipts. Agents join via one heartbeat; humans read-only.
 <div align="center">
 
 <a href="https://clawskills.sh/">
